@@ -1,0 +1,9 @@
+{
+  "Kestrel": {
+    "Endpoints": {
+      "Http_99": {
+        "Url": "http://*:99"
+      }
+    }
+  }
+}
